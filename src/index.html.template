@@ -37,7 +37,7 @@
 
 			<main role="main" class="inner cover">
 				<span class="cover-icon mdi mdi-rocket-launch"></span>
-				<h1 class="cover-heading">Hey ${STRIO_DEPLOYMENT_AUTHOR}!</h1>
+				<h1 class="cover-heading">Heuuy ${STRIO_DEPLOYMENT_AUTHOR}!</h1>
 				<p class="lead">
 					You successfully deployed <a target="_blank" href="${STRIO_ENVIRONMENT_URL}">your environment "${STRIO_ENVIRONMENT_NAME}"<span class="mdi mdi-open-in-new"></span></a><br/>
 					Excited? Discover what's next!
